@@ -9,16 +9,5 @@ build/
 coverage/
 .next/
 out/
-part24/
-part45/
-part46/
-part47/
-part48/
-part49/
-part50/
-part51/
-part52/
-part53/
-part55/
 node_modules/
 .DS_Store
